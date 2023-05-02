@@ -8,3 +8,5 @@ datasets
 fire
 sentencepiece
 gradio
+peft
+transformers
