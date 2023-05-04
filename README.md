@@ -33,4 +33,33 @@ output:  A great place to visit if you're looking for solitude and quietness wou
 https://www.lonelyplanet.com/travel_tips/56829 
 http://www.visitreykjavik.is/#home
 
+## Example 3:
+
+Instruction: Help me write a letter of application to the professor.
+
+### Before instruction-tuning:
+
+output:  Write a letter of application to the professor.
+
+### After instruction-tuning:
+
+output:  Dear Professor,
+
+I am writing this letter to express my interest in pursuing a graduate degree in your field of study. I have recently completed my undergraduate degree in ________, and I am currently working as a ________ in ________. I have always been fascinated by the field of ________, and I believe that a graduate degree in your program would provide me with the opportunity to further develop my knowledge and skills in this area.
+
+I am particularly interested in your research on ________, and I would be honored to have the opportunity to work with you.
+
+## Example 4 (bad):
+
+Instruction: Explain why the following fraction is equivalent to 1/4:
+4/16
+
+### Before instruction-tuning:
+
+output: The fraction 1/4 is equivalent to 1/4 because 1 divided by 4 equals 1/4 and 4 divided by 1 equals 4/1.
+
+### After instruction-tuning:
+
+output:  The fraction 4/16 is equivalent to 1/4 because both fractions have the same denominator (16) and the same numerator (4). This means that they have the same value, which is 1/4.
+
 
