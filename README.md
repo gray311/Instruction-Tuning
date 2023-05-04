@@ -1,7 +1,7 @@
 # Instruction-Tuning
 Instruction-Tuning on the llama-7b model by lora. 
 
-Randomly select 1k instruction examples in the alpaca_data_gpt4.json dataset to do instruction tuning. 
+Randomly select 3.5k instruction examples in the alpaca_data_gpt4.json dataset to do instruction tuning. 
 
 ## Example 1:
 
